@@ -1,0 +1,5 @@
+{
+  "name": "MemeMagic AI",
+  "description": "AI-powered meme generator that analyzes your images to suggest hilarious captions.",
+  "requestFramePermissions": []
+}
